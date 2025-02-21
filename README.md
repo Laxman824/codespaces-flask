@@ -1,4 +1,14 @@
-# NIQ Innovation Enablement - Challenge 1 (Object Counting)
+# REFER TO homework.md for initial setup after cloning repository 
+
+
+
+
+
+
+
+
+ 
+ NIQ Innovation Enablement - Challenge 1 (Object Counting)
 
 The goal of this repo is demonstrate how to apply Hexagonal Architecture in a ML based system.
 
